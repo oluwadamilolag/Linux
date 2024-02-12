@@ -16,7 +16,7 @@ Hashcat:
 Github: https://github.com/hashcat/hashcat
 
 Installing on Windows: https://www.erobber.in/2017/04/hashcat-for-windows.html
-mitm6:
+
 Github: https://github.com/fox-it/mitm6
 
 mimikatz:
